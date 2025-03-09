@@ -65,7 +65,7 @@ const BLOG = {
     'Hi，我是一个程序员, Hi，我是一个打工人,Hi，我是一个干饭人,欢迎来到我的博客🎉',
   
   // 自定义主题
-  THEME: process.env.NEXT_PUBLIC_THEME || 'hexo', // 锁定默认主题为hexo
+  THEME: process.env.NEXT_PUBLIC_THEME || 'heo', // 锁定默认主题为hexo
   
   // uuid重定向至 slug
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
