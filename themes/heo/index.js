@@ -491,7 +491,6 @@ const LayoutTagIndex = props => {
                 </div>
               </div>
             </Link>
-<a href="https://icp.gov.moe/?keyword=20250240" target="_blank">萌ICP备20250240号</a>
           )
         })}
       </div>
