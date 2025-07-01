@@ -124,7 +124,7 @@ const LayoutBase = props => {
 
       {/* 页脚 */}
       <Footer />
-
+<a href="https://icp.gov.moe/?keyword=20250240" target="_blank">萌ICP备20250240号</a>
       {HEO_LOADING_COVER && <LoadingCover />}
     </div>
   )
